@@ -22,6 +22,7 @@
   "devDependencies": {
     "@types/eslint": "^8.4.5",
     "@types/jest": "^28.1.6",
+    "@types/node": "^18.7.3",
     "@types/prettier": "^2.6.3",
     "@typescript-eslint/eslint-plugin": "^5.30.6",
     "@typescript-eslint/parser": "^5.30.6",
@@ -62,5 +63,8 @@
   "bugs": {
     "url": "https://github.com/impe93/digital-humani-js-sdk/issues"
   },
-  "homepage": "https://github.com/impe93/digital-humani-js-sdk#readme"
+  "homepage": "https://github.com/impe93/digital-humani-js-sdk#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
