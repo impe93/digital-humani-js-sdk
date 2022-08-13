@@ -7,15 +7,7 @@
 # Node.js modules.
 node_modules/
 
-# NPM's shrinkwrap.
-# We're using `package-lock.json` instead.
-npm-shrinkwrap.json
-
-# pnpm's lockfile, workspace definitions and hooks.
-# We're using npm, and it provides its lockfile and settings.
-pnpm-lock.yaml
-pnpm-workspace.yaml
-pnpmfile.js
+.vscode
 
 # Log files.
 *.log
