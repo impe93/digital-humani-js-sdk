@@ -1,0 +1,7 @@
+{
+  "out": "./docs",
+  "name": "DigitalHumani JS SDK",
+  "theme": "markdown",
+  "readme": "none",
+  "tsconfig": "./tsconfig.bundle.json"
+}
