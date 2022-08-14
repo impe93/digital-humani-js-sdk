@@ -28,7 +28,7 @@ export class DuHttpClient implements IHttpClient {
    * @param {HttpClientInitParams}  - `axiosInstance`: An instance of axios. If you don't provide one,
    * the SDK will create one for you.
    */
-  constructor({ axiosInstance }: HttpClientInitParams) {
+  constructor(params?: HttpClientInitParams) {
     const env = process.env['DIGITALHUMANI_ENV'];
     const apiKey = process.env['DIGITALHUMANI_API_KEY'];
 
@@ -52,7 +52,7 @@ export class DuHttpClient implements IHttpClient {
       baseUrl = 'https://api.digitalhumani.com';
     }
 
-    this.axiosInstance = axiosInstance ?? axios.create({});
+    this.axiosInstance = params?.axiosInstance ?? axios.create({});
     this.axiosInstance.defaults.baseURL = baseUrl;
     this.axiosInstance.defaults.timeout = 30000;
     this.axiosInstance.defaults.headers.common = {
