@@ -1,6 +1,6 @@
 {
   "name": "digital-humani-js-sdk",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "cdn": "dist/index.umd.js",
   "main": "dist/index.js",
