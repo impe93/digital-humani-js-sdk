@@ -6,20 +6,8 @@ export type NumberParseable = (number | string | boolean) & {
 };
 
 /**
- * Check if value is parseable to number.
- * @example
- * ```js
- * isNumberParseable('AAAA');
- * //=> false
- *
- * isNumberParseable('100');
- * //=> true
- *
- * if (!isNumberParseable(value))
- *   throw new Error('Value can\'t be parseable to `Number`.')
- * return Number(value);
- * ```
- * @param value - An `unknown` value to be checked.
+ * It returns true if the value can be converted to a number without throwing an error
+ * @param {unknown} value - unknown - The value to check if it's a number.
  */
 export const isNumberParseable = (value: unknown): value is NumberParseable =>
   !Number.isNaN(Number(value));
