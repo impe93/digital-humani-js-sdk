@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[repositories/EnterpriseRepository/enterprise.models.ts:17](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/EnterpriseRepository/enterprise.models.ts#L17)
+[repositories/EnterpriseRepository/enterprise.models.ts:17](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/EnterpriseRepository/enterprise.models.ts#L17)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[repositories/EnterpriseRepository/enterprise.models.ts:31](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/EnterpriseRepository/enterprise.models.ts#L31)
+[repositories/EnterpriseRepository/enterprise.models.ts:31](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/EnterpriseRepository/enterprise.models.ts#L31)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[repositories/EnterpriseRepository/enterprise.models.ts:24](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/EnterpriseRepository/enterprise.models.ts#L24)
+[repositories/EnterpriseRepository/enterprise.models.ts:24](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/EnterpriseRepository/enterprise.models.ts#L24)

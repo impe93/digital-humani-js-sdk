@@ -34,4 +34,4 @@ Details of the user that mad the api call
 
 #### Defined in
 
-[repositories/UserRepository/user.interface.ts:8](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/UserRepository/user.interface.ts#L8)
+[repositories/UserRepository/user.interface.ts:8](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/UserRepository/user.interface.ts#L8)

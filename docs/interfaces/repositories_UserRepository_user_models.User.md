@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[repositories/UserRepository/user.models.ts:3](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/UserRepository/user.models.ts#L3)
+[repositories/UserRepository/user.models.ts:3](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/UserRepository/user.models.ts#L3)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[repositories/UserRepository/user.models.ts:6](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/UserRepository/user.models.ts#L6)
+[repositories/UserRepository/user.models.ts:6](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/UserRepository/user.models.ts#L6)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[repositories/UserRepository/user.models.ts:4](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/UserRepository/user.models.ts#L4)
+[repositories/UserRepository/user.models.ts:4](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/UserRepository/user.models.ts#L4)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[repositories/UserRepository/user.models.ts:2](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/UserRepository/user.models.ts#L2)
+[repositories/UserRepository/user.models.ts:2](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/UserRepository/user.models.ts#L2)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[repositories/UserRepository/user.models.ts:5](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/UserRepository/user.models.ts#L5)
+[repositories/UserRepository/user.models.ts:5](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/UserRepository/user.models.ts#L5)

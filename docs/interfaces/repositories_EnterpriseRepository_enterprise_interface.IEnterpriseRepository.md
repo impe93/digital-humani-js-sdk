@@ -41,7 +41,7 @@ The associated enterprise
 
 #### Defined in
 
-[repositories/EnterpriseRepository/enterprise.interface.ts:13](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/EnterpriseRepository/enterprise.interface.ts#L13)
+[repositories/EnterpriseRepository/enterprise.interface.ts:13](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/EnterpriseRepository/enterprise.interface.ts#L13)
 
 ___
 
@@ -71,4 +71,4 @@ an object with `count` field that rapresent the enterprise buyed trees.
 
 #### Defined in
 
-[repositories/EnterpriseRepository/enterprise.interface.ts:21](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/EnterpriseRepository/enterprise.interface.ts#L21)
+[repositories/EnterpriseRepository/enterprise.interface.ts:21](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/EnterpriseRepository/enterprise.interface.ts#L21)

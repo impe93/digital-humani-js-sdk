@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[repositories/TreeRepository/tree.models.ts:2](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/TreeRepository/tree.models.ts#L2)
+[repositories/TreeRepository/tree.models.ts:2](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/TreeRepository/tree.models.ts#L2)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[repositories/TreeRepository/tree.models.ts:3](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/TreeRepository/tree.models.ts#L3)
+[repositories/TreeRepository/tree.models.ts:3](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/TreeRepository/tree.models.ts#L3)

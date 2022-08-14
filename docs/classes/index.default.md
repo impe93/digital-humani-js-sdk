@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[index.ts:38](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/index.ts#L38)
+[index.ts:38](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/index.ts#L38)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[index.ts:41](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/index.ts#L41)
+[index.ts:41](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/index.ts#L41)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[index.ts:35](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/index.ts#L35)
+[index.ts:35](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/index.ts#L35)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[index.ts:32](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/index.ts#L32)
+[index.ts:32](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/index.ts#L32)
 
 ## Accessors
 
@@ -72,7 +72,7 @@ Renamed `instance` for faster user
 
 #### Defined in
 
-[index.ts:27](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/index.ts#L27)
+[index.ts:27](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/index.ts#L27)
 
 ___
 
@@ -88,4 +88,4 @@ The instance of the class to use to calls the SDK methods
 
 #### Defined in
 
-[index.ts:19](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/index.ts#L19)
+[index.ts:19](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/index.ts#L19)

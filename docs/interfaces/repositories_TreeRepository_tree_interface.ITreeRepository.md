@@ -42,7 +42,7 @@ An object with all the informations about the tree
 
 #### Defined in
 
-[repositories/TreeRepository/tree.interface.ts:22](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/TreeRepository/tree.interface.ts#L22)
+[repositories/TreeRepository/tree.interface.ts:22](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/TreeRepository/tree.interface.ts#L22)
 
 ___
 
@@ -70,7 +70,7 @@ A response with the user, enterpriseId and the planted tree count.
 
 #### Defined in
 
-[repositories/TreeRepository/tree.interface.ts:15](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/TreeRepository/tree.interface.ts#L15)
+[repositories/TreeRepository/tree.interface.ts:15](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/TreeRepository/tree.interface.ts#L15)
 
 ___
 
@@ -98,4 +98,4 @@ An object with all the informations about the tree
 
 #### Defined in
 
-[repositories/TreeRepository/tree.interface.ts:29](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/TreeRepository/tree.interface.ts#L29)
+[repositories/TreeRepository/tree.interface.ts:29](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/TreeRepository/tree.interface.ts#L29)

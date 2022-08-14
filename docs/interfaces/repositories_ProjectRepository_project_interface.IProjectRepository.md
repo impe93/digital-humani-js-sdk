@@ -39,7 +39,7 @@ Get details of the project with id passed as parameter
 
 #### Defined in
 
-[repositories/ProjectRepository/project.interface.ts:14](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/ProjectRepository/project.interface.ts#L14)
+[repositories/ProjectRepository/project.interface.ts:14](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/ProjectRepository/project.interface.ts#L14)
 
 ___
 
@@ -61,4 +61,4 @@ A PartialProject with the english labels
 
 #### Defined in
 
-[repositories/ProjectRepository/project.interface.ts:8](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/ProjectRepository/project.interface.ts#L8)
+[repositories/ProjectRepository/project.interface.ts:8](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/ProjectRepository/project.interface.ts#L8)

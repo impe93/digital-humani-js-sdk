@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[services/HttpClient/IHttpClient.ts:8](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/IHttpClient.ts#L8)
+[services/HttpClient/IHttpClient.ts:8](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/IHttpClient.ts#L8)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[services/HttpClient/IHttpClient.ts:23](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/IHttpClient.ts#L23)
+[services/HttpClient/IHttpClient.ts:23](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/IHttpClient.ts#L23)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[services/HttpClient/IHttpClient.ts:12](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/IHttpClient.ts#L12)
+[services/HttpClient/IHttpClient.ts:12](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/IHttpClient.ts#L12)
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-[services/HttpClient/IHttpClient.ts:22](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/IHttpClient.ts#L22)
+[services/HttpClient/IHttpClient.ts:22](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/IHttpClient.ts#L22)
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[services/HttpClient/IHttpClient.ts:16](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/IHttpClient.ts#L16)
+[services/HttpClient/IHttpClient.ts:16](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/IHttpClient.ts#L16)
 
 ___
 
@@ -103,4 +103,4 @@ ___
 
 #### Defined in
 
-[services/HttpClient/IHttpClient.ts:21](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/IHttpClient.ts#L21)
+[services/HttpClient/IHttpClient.ts:21](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/IHttpClient.ts#L21)

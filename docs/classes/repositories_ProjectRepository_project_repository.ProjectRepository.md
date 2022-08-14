@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[repositories/ProjectRepository/project.repository.ts:6](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/ProjectRepository/project.repository.ts#L6)
+[repositories/ProjectRepository/project.repository.ts:6](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/ProjectRepository/project.repository.ts#L6)
 
 ## Methods
 
@@ -59,7 +59,7 @@ IProjectRepository.getProjectDetails
 
 #### Defined in
 
-[repositories/ProjectRepository/project.repository.ts:12](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/ProjectRepository/project.repository.ts#L12)
+[repositories/ProjectRepository/project.repository.ts:12](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/ProjectRepository/project.repository.ts#L12)
 
 ___
 
@@ -81,4 +81,4 @@ IProjectRepository.getProjects
 
 #### Defined in
 
-[repositories/ProjectRepository/project.repository.ts:8](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/ProjectRepository/project.repository.ts#L8)
+[repositories/ProjectRepository/project.repository.ts:8](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/ProjectRepository/project.repository.ts#L8)

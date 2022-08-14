@@ -34,4 +34,4 @@ requests.
 
 #### Defined in
 
-[services/HttpClient/HttpClient.ts:17](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/HttpClient.ts#L17)
+[services/HttpClient/HttpClient.ts:17](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/HttpClient.ts#L17)

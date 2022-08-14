@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[repositories/TreeRepository/tree.models.ts:18](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/TreeRepository/tree.models.ts#L18)
+[repositories/TreeRepository/tree.models.ts:18](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/TreeRepository/tree.models.ts#L18)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[repositories/TreeRepository/tree.models.ts:22](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/TreeRepository/tree.models.ts#L22)
+[repositories/TreeRepository/tree.models.ts:22](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/TreeRepository/tree.models.ts#L22)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[repositories/TreeRepository/tree.models.ts:17](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/TreeRepository/tree.models.ts#L17)
+[repositories/TreeRepository/tree.models.ts:17](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/TreeRepository/tree.models.ts#L17)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[repositories/TreeRepository/tree.models.ts:21](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/TreeRepository/tree.models.ts#L21)
+[repositories/TreeRepository/tree.models.ts:21](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/TreeRepository/tree.models.ts#L21)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[repositories/TreeRepository/tree.models.ts:20](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/TreeRepository/tree.models.ts#L20)
+[repositories/TreeRepository/tree.models.ts:20](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/TreeRepository/tree.models.ts#L20)
 
 ___
 
@@ -73,4 +73,4 @@ ___
 
 #### Defined in
 
-[repositories/TreeRepository/tree.models.ts:19](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/TreeRepository/tree.models.ts#L19)
+[repositories/TreeRepository/tree.models.ts:19](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/TreeRepository/tree.models.ts#L19)

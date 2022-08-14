@@ -38,7 +38,7 @@ It creates a new instance of the HttpClient class.
 
 #### Defined in
 
-[services/HttpClient/HttpClient.ts:31](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/HttpClient.ts#L31)
+[services/HttpClient/HttpClient.ts:31](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/HttpClient.ts#L31)
 
 ## Methods
 
@@ -69,7 +69,7 @@ IHttpClient.delete
 
 #### Defined in
 
-[services/HttpClient/HttpClient.ts:109](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/HttpClient.ts#L109)
+[services/HttpClient/HttpClient.ts:109](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/HttpClient.ts#L109)
 
 ___
 
@@ -100,7 +100,7 @@ IHttpClient.get
 
 #### Defined in
 
-[services/HttpClient/HttpClient.ts:64](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/HttpClient.ts#L64)
+[services/HttpClient/HttpClient.ts:64](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/HttpClient.ts#L64)
 
 ___
 
@@ -132,7 +132,7 @@ IHttpClient.patch
 
 #### Defined in
 
-[services/HttpClient/HttpClient.ts:98](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/HttpClient.ts#L98)
+[services/HttpClient/HttpClient.ts:98](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/HttpClient.ts#L98)
 
 ___
 
@@ -164,7 +164,7 @@ IHttpClient.post
 
 #### Defined in
 
-[services/HttpClient/HttpClient.ts:76](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/HttpClient.ts#L76)
+[services/HttpClient/HttpClient.ts:76](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/HttpClient.ts#L76)
 
 ___
 
@@ -196,4 +196,4 @@ IHttpClient.put
 
 #### Defined in
 
-[services/HttpClient/HttpClient.ts:87](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/HttpClient.ts#L87)
+[services/HttpClient/HttpClient.ts:87](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/HttpClient.ts#L87)

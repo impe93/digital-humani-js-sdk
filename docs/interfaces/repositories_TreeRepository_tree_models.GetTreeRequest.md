@@ -18,4 +18,4 @@
 
 #### Defined in
 
-[repositories/TreeRepository/tree.models.ts:13](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/TreeRepository/tree.models.ts#L13)
+[repositories/TreeRepository/tree.models.ts:13](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/TreeRepository/tree.models.ts#L13)

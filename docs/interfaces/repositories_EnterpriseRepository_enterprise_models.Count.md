@@ -18,4 +18,4 @@
 
 #### Defined in
 
-[repositories/EnterpriseRepository/enterprise.models.ts:14](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/EnterpriseRepository/enterprise.models.ts#L14)
+[repositories/EnterpriseRepository/enterprise.models.ts:14](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/EnterpriseRepository/enterprise.models.ts#L14)

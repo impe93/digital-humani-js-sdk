@@ -20,4 +20,4 @@
 
 #### Defined in
 
-[repositories/ProjectRepository/project.models.ts:25](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/ProjectRepository/project.models.ts#L25)
+[repositories/ProjectRepository/project.models.ts:25](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/repositories/ProjectRepository/project.models.ts#L25)

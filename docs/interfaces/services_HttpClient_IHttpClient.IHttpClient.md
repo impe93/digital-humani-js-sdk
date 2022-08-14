@@ -47,7 +47,7 @@
 
 #### Defined in
 
-[services/HttpClient/IHttpClient.ts:43](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/IHttpClient.ts#L43)
+[services/HttpClient/IHttpClient.ts:43](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/IHttpClient.ts#L43)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[services/HttpClient/IHttpClient.ts:26](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/IHttpClient.ts#L26)
+[services/HttpClient/IHttpClient.ts:26](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/IHttpClient.ts#L26)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[services/HttpClient/IHttpClient.ts:38](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/IHttpClient.ts#L38)
+[services/HttpClient/IHttpClient.ts:38](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/IHttpClient.ts#L38)
 
 ___
 
@@ -142,7 +142,7 @@ ___
 
 #### Defined in
 
-[services/HttpClient/IHttpClient.ts:28](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/IHttpClient.ts#L28)
+[services/HttpClient/IHttpClient.ts:28](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/IHttpClient.ts#L28)
 
 ___
 
@@ -174,4 +174,4 @@ ___
 
 #### Defined in
 
-[services/HttpClient/IHttpClient.ts:33](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/services/HttpClient/IHttpClient.ts#L33)
+[services/HttpClient/IHttpClient.ts:33](https://github.com/impe93/digital-humani-js-sdk/blob/d0c7cfd/src/services/HttpClient/IHttpClient.ts#L33)
