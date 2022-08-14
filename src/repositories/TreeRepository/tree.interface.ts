@@ -4,7 +4,7 @@ import type {
   GetTreesResponse,
   PlanteTreesRequest,
   Tree,
-} from './trees.models';
+} from './tree.models';
 
 export interface ITreesRepository {
   readonly getTrees: (params: GetTreesRequest) => Promise<GetTreesResponse>;

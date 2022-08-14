@@ -1,12 +1,12 @@
 import type { IHttpClient } from '../../services/HttpClient/IHttpClient';
-import type { ITreesRepository } from './trees.interface';
+import type { ITreesRepository } from './tree.interface';
 import type {
   GetTreesRequest,
   GetTreesResponse,
   GetTreeRequest,
   Tree,
   PlanteTreesRequest,
-} from './trees.models';
+} from './tree.models';
 
 export class TreesRepository implements ITreesRepository {
   constructor(private httpClient: IHttpClient) {}

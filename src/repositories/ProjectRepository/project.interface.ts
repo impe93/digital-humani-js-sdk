@@ -1,4 +1,4 @@
-import type { Project, ProjectPartial } from './projects.models';
+import type { Project, ProjectPartial } from './project.models';
 
 export interface IProjectsRepository {
   readonly getProjects: () => Promise<ProjectPartial[]>;

@@ -1,6 +1,6 @@
 import type { IHttpClient } from '../../services/HttpClient/IHttpClient';
-import type { IProjectsRepository } from './projects.interface';
-import type { ProjectPartial, Project } from './projects.models';
+import type { IProjectsRepository } from './project.interface';
+import type { ProjectPartial, Project } from './project.models';
 
 export class ProjectsRepository implements IProjectsRepository {
   constructor(private httpClient: IHttpClient) {}

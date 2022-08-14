@@ -1,4 +1,4 @@
-import type { User } from './users.models';
+import type { User } from './user.models';
 
 export interface IUsersRepository {
   readonly getWhoAmI: () => Promise<User>;
