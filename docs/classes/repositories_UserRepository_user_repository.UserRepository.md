@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[repositories/UserRepository/user.repository.ts:6](https://github.com/impe93/digital-humani-js-sdk/blob/f143a90/src/repositories/UserRepository/user.repository.ts#L6)
+[repositories/UserRepository/user.repository.ts:6](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/UserRepository/user.repository.ts#L6)
 
 ## Methods
 
@@ -50,4 +50,4 @@ IUserRepository.getWhoAmI
 
 #### Defined in
 
-[repositories/UserRepository/user.repository.ts:8](https://github.com/impe93/digital-humani-js-sdk/blob/f143a90/src/repositories/UserRepository/user.repository.ts#L8)
+[repositories/UserRepository/user.repository.ts:8](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/UserRepository/user.repository.ts#L8)

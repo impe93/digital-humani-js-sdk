@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[repositories/TreeRepository/tree.repository.ts:12](https://github.com/impe93/digital-humani-js-sdk/blob/f143a90/src/repositories/TreeRepository/tree.repository.ts#L12)
+[repositories/TreeRepository/tree.repository.ts:12](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/TreeRepository/tree.repository.ts#L12)
 
 ## Methods
 
@@ -58,7 +58,7 @@ ITreeRepository.getTree
 
 #### Defined in
 
-[repositories/TreeRepository/tree.repository.ts:26](https://github.com/impe93/digital-humani-js-sdk/blob/f143a90/src/repositories/TreeRepository/tree.repository.ts#L26)
+[repositories/TreeRepository/tree.repository.ts:26](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/TreeRepository/tree.repository.ts#L26)
 
 ___
 
@@ -82,7 +82,7 @@ ITreeRepository.getTrees
 
 #### Defined in
 
-[repositories/TreeRepository/tree.repository.ts:14](https://github.com/impe93/digital-humani-js-sdk/blob/f143a90/src/repositories/TreeRepository/tree.repository.ts#L14)
+[repositories/TreeRepository/tree.repository.ts:14](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/TreeRepository/tree.repository.ts#L14)
 
 ___
 
@@ -106,4 +106,4 @@ ITreeRepository.plantTrees
 
 #### Defined in
 
-[repositories/TreeRepository/tree.repository.ts:30](https://github.com/impe93/digital-humani-js-sdk/blob/f143a90/src/repositories/TreeRepository/tree.repository.ts#L30)
+[repositories/TreeRepository/tree.repository.ts:30](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/TreeRepository/tree.repository.ts#L30)

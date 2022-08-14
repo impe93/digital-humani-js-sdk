@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[repositories/EnterpriseRepository/enterprise.repository.ts:10](https://github.com/impe93/digital-humani-js-sdk/blob/f143a90/src/repositories/EnterpriseRepository/enterprise.repository.ts#L10)
+[repositories/EnterpriseRepository/enterprise.repository.ts:10](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/EnterpriseRepository/enterprise.repository.ts#L10)
 
 ## Methods
 
@@ -57,7 +57,7 @@ IEnterpriseRepository.getEnterprise
 
 #### Defined in
 
-[repositories/EnterpriseRepository/enterprise.repository.ts:12](https://github.com/impe93/digital-humani-js-sdk/blob/f143a90/src/repositories/EnterpriseRepository/enterprise.repository.ts#L12)
+[repositories/EnterpriseRepository/enterprise.repository.ts:12](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/EnterpriseRepository/enterprise.repository.ts#L12)
 
 ___
 
@@ -81,4 +81,4 @@ IEnterpriseRepository.getTreeCount
 
 #### Defined in
 
-[repositories/EnterpriseRepository/enterprise.repository.ts:16](https://github.com/impe93/digital-humani-js-sdk/blob/f143a90/src/repositories/EnterpriseRepository/enterprise.repository.ts#L16)
+[repositories/EnterpriseRepository/enterprise.repository.ts:16](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/EnterpriseRepository/enterprise.repository.ts#L16)
