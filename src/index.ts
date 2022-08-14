@@ -1,7 +1,7 @@
 import type { IEnterpriseRepository } from './repositories/EnterpriseRepository/enterprise.interface';
 import { EnterpriseRepository } from './repositories/EnterpriseRepository/enterprise.repository';
 import type { IProjectRepository } from './repositories/ProjectRepository/project.interface';
-import { ProjectRepository } from './repositories/ProjectRepository/project.repositories';
+import { ProjectRepository } from './repositories/ProjectRepository/project.repository';
 import type { ITreeRepository } from './repositories/TreeRepository/tree.interface';
 import { TreeRepository } from './repositories/TreeRepository/tree.repository';
 import type { IUserRepository } from './repositories/UserRepository/user.interface';
