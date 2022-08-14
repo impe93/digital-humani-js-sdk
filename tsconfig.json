@@ -4,7 +4,7 @@
     "jsx": "react",
     "jsxFactory": "React.createElement",
     "jsxFragmentFactory": "React.Fragment",
-
+    "target": "ES5",
     // Module settings.
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
