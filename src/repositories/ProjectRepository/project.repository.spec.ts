@@ -2,7 +2,7 @@ import { mock, MockProxy } from 'jest-mock-extended';
 import type { IHttpClient } from '../../services/HttpClient/IHttpClient';
 import { ProjectRepository } from './project.repository';
 
-describe('Given enterprise repository class', () => {
+describe('Given project repository class', () => {
   const mockResponse = 'Some value';
   const projectId = 'enterpriseId';
 
