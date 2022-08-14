@@ -6,7 +6,7 @@ import type {
   Tree,
 } from './tree.models';
 
-export interface ITreesRepository {
+export interface ITreeRepository {
   readonly getTrees: (params: GetTreesRequest) => Promise<GetTreesResponse>;
   readonly getTree: (params: GetTreeRequest) => Promise<Tree>;
   readonly plantTrees: (body: PlanteTreesRequest) => Promise<Tree>;

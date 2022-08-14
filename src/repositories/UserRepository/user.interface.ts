@@ -1,5 +1,5 @@
 import type { User } from './user.models';
 
-export interface IUsersRepository {
+export interface IUserRepository {
   readonly getWhoAmI: () => Promise<User>;
 }

@@ -1,5 +1,5 @@
 import type { IHttpClient } from '../../services/HttpClient/IHttpClient';
-import type { ITreesRepository } from './tree.interface';
+import type { ITreeRepository } from './tree.interface';
 import type {
   GetTreesRequest,
   GetTreesResponse,
@@ -8,7 +8,7 @@ import type {
   PlanteTreesRequest,
 } from './tree.models';
 
-export class TreesRepository implements ITreesRepository {
+export class TreeRepository implements ITreeRepository {
   constructor(private httpClient: IHttpClient) {}
 
   public readonly getTrees = async ({

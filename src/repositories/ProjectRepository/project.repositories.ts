@@ -1,8 +1,8 @@
 import type { IHttpClient } from '../../services/HttpClient/IHttpClient';
-import type { IProjectsRepository } from './project.interface';
+import type { IProjectRepository } from './project.interface';
 import type { ProjectPartial, Project } from './project.models';
 
-export class ProjectsRepository implements IProjectsRepository {
+export class ProjectRepository implements IProjectRepository {
   constructor(private httpClient: IHttpClient) {}
 
   public readonly getProjects = async () => {
