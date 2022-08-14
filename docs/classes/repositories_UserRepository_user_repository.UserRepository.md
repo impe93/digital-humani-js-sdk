@@ -6,7 +6,7 @@
 
 ## Implements
 
-- `IUserRepository`
+- [`IUserRepository`](../interfaces/repositories_UserRepository_user_interface.IUserRepository.md)
 
 ## Table of contents
 
@@ -28,21 +28,25 @@
 
 | Name | Type |
 | :------ | :------ |
-| `httpClient` | `IHttpClient` |
+| `httpClient` | [`IHttpClient`](../interfaces/services_HttpClient_IHttpClient.IHttpClient.md) |
 
 #### Defined in
 
-[repositories/UserRepository/user.repository.ts:6](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/UserRepository/user.repository.ts#L6)
+[repositories/UserRepository/user.repository.ts:6](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/UserRepository/user.repository.ts#L6)
 
 ## Methods
 
 ### getWhoAmI
 
-▸ `Readonly` **getWhoAmI**(): `Promise`<`User`\>
+▸ `Readonly` **getWhoAmI**(): `Promise`<[`User`](../interfaces/repositories_UserRepository_user_models.User.md)\>
+
+Used to get information about the user that made the API call
 
 #### Returns
 
-`Promise`<`User`\>
+`Promise`<[`User`](../interfaces/repositories_UserRepository_user_models.User.md)\>
+
+Details of the user that mad the api call
 
 #### Implementation of
 
@@ -50,4 +54,4 @@ IUserRepository.getWhoAmI
 
 #### Defined in
 
-[repositories/UserRepository/user.repository.ts:8](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/UserRepository/user.repository.ts#L8)
+[repositories/UserRepository/user.repository.ts:8](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/UserRepository/user.repository.ts#L8)

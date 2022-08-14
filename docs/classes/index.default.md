@@ -22,41 +22,41 @@
 
 ### enterpriseRepo
 
-• `Readonly` **enterpriseRepo**: `IEnterpriseRepository`
+• `Readonly` **enterpriseRepo**: [`IEnterpriseRepository`](../interfaces/repositories_EnterpriseRepository_enterprise_interface.IEnterpriseRepository.md)
 
 #### Defined in
 
-[index.ts:38](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/index.ts#L38)
+[index.ts:38](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/index.ts#L38)
 
 ___
 
 ### projectRepo
 
-• `Readonly` **projectRepo**: `IProjectRepository`
+• `Readonly` **projectRepo**: [`IProjectRepository`](../interfaces/repositories_ProjectRepository_project_interface.IProjectRepository.md)
 
 #### Defined in
 
-[index.ts:41](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/index.ts#L41)
+[index.ts:41](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/index.ts#L41)
 
 ___
 
 ### treeRepo
 
-• `Readonly` **treeRepo**: `ITreeRepository`
+• `Readonly` **treeRepo**: [`ITreeRepository`](../interfaces/repositories_TreeRepository_tree_interface.ITreeRepository.md)
 
 #### Defined in
 
-[index.ts:35](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/index.ts#L35)
+[index.ts:35](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/index.ts#L35)
 
 ___
 
 ### userRepo
 
-• `Readonly` **userRepo**: `IUserRepository`
+• `Readonly` **userRepo**: [`IUserRepository`](../interfaces/repositories_UserRepository_user_interface.IUserRepository.md)
 
 #### Defined in
 
-[index.ts:32](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/index.ts#L32)
+[index.ts:32](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/index.ts#L32)
 
 ## Accessors
 
@@ -72,7 +72,7 @@ Renamed `instance` for faster user
 
 #### Defined in
 
-[index.ts:27](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/index.ts#L27)
+[index.ts:27](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/index.ts#L27)
 
 ___
 
@@ -88,4 +88,4 @@ The instance of the class to use to calls the SDK methods
 
 #### Defined in
 
-[index.ts:19](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/index.ts#L19)
+[index.ts:19](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/index.ts#L19)

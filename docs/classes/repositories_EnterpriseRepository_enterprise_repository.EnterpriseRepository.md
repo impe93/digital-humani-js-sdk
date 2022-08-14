@@ -6,7 +6,7 @@
 
 ## Implements
 
-- `IEnterpriseRepository`
+- [`IEnterpriseRepository`](../interfaces/repositories_EnterpriseRepository_enterprise_interface.IEnterpriseRepository.md)
 
 ## Table of contents
 
@@ -29,27 +29,31 @@
 
 | Name | Type |
 | :------ | :------ |
-| `httpClient` | `IHttpClient` |
+| `httpClient` | [`IHttpClient`](../interfaces/services_HttpClient_IHttpClient.IHttpClient.md) |
 
 #### Defined in
 
-[repositories/EnterpriseRepository/enterprise.repository.ts:10](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/EnterpriseRepository/enterprise.repository.ts#L10)
+[repositories/EnterpriseRepository/enterprise.repository.ts:10](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/EnterpriseRepository/enterprise.repository.ts#L10)
 
 ## Methods
 
 ### getEnterprise
 
-▸ `Readonly` **getEnterprise**(`enterpriseId`): `Promise`<`Enterprise`\>
+▸ `Readonly` **getEnterprise**(`enterpriseId`): `Promise`<[`Enterprise`](../interfaces/repositories_EnterpriseRepository_enterprise_models.Enterprise.md)\>
+
+This method is used to get an enterprise by its ID
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `enterpriseId` | `string` |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `enterpriseId` | `string` | Enterprise ID, is used to get the right enterprise details |
 
 #### Returns
 
-`Promise`<`Enterprise`\>
+`Promise`<[`Enterprise`](../interfaces/repositories_EnterpriseRepository_enterprise_models.Enterprise.md)\>
+
+The associated enterprise
 
 #### Implementation of
 
@@ -57,23 +61,29 @@ IEnterpriseRepository.getEnterprise
 
 #### Defined in
 
-[repositories/EnterpriseRepository/enterprise.repository.ts:12](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/EnterpriseRepository/enterprise.repository.ts#L12)
+[repositories/EnterpriseRepository/enterprise.repository.ts:12](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/EnterpriseRepository/enterprise.repository.ts#L12)
 
 ___
 
 ### getTreeCount
 
-▸ `Readonly` **getTreeCount**(`__namedParameters`): `Promise`<`Count`\>
+▸ `Readonly` **getTreeCount**(`__namedParameters`): `Promise`<[`Count`](../interfaces/repositories_EnterpriseRepository_enterprise_models.Count.md)\>
+
+**`Throws`**
+
+Throw an error when the explained parameters logic is not satisfied.
 
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
-| `__namedParameters` | `GetTreeCountRequest` |
+| `__namedParameters` | [`GetTreeCountRequest`](../modules/repositories_EnterpriseRepository_enterprise_models.md#gettreecountrequest) |
 
 #### Returns
 
-`Promise`<`Count`\>
+`Promise`<[`Count`](../interfaces/repositories_EnterpriseRepository_enterprise_models.Count.md)\>
+
+an object with `count` field that rapresent the enterprise buyed trees.
 
 #### Implementation of
 
@@ -81,4 +91,4 @@ IEnterpriseRepository.getTreeCount
 
 #### Defined in
 
-[repositories/EnterpriseRepository/enterprise.repository.ts:16](https://github.com/impe93/digital-humani-js-sdk/blob/7bf8f8e/src/repositories/EnterpriseRepository/enterprise.repository.ts#L16)
+[repositories/EnterpriseRepository/enterprise.repository.ts:16](https://github.com/impe93/digital-humani-js-sdk/blob/8605906/src/repositories/EnterpriseRepository/enterprise.repository.ts#L16)
