@@ -12,26 +12,36 @@ This library is published in the NPM registry and can be installed using any com
 
 ```sh
 npm install digital-humani-js-sdk --save
+```
 
-# For Yarn, use the command below.
+Or if you're using Yarn
+
+```sh
 yarn add digital-humani-js-sdk
 ```
 
-### Installation from CDN
+## Getting started
 
-This module has an UMD bundle available through JSDelivr and Unpkg CDNs.
+### Setting the environment variables
 
-```html
-<!-- For UNPKG use the code below. -->
-<script src="https://unpkg.com/digital-humani-js-sdk"></script>
+To work, the library require 2 env variables:
 
-<!-- For JSDelivr use the code below. -->
-<script src="https://cdn.jsdelivr.net/npm/digital-humani-js-sdk"></script>
+```
+DIGITALHUMANI_ENV=<prod | sandbox>
+DIGITALHUMANI_API_KEY=<your-api-key>
+```
 
-<script>
-  // UMD module is exposed through the "digitalHumaniJsSdk" global variable.
-  console.log(digitalHumaniJsSdk);
-</script>
+Those variables are used to initialize the SDK.
+
+### Use the SDK
+
+The main class is a singleton that is instanciated the first time that is called. The fields of the main class are repositories. Every repository has methods that are used to interact with the API of Digital Humani.
+
+```typescript
+import dh from 'digital-humani-js-sdk';
+
+// dh.i is a shortcut of dh.instance
+dh.i.projectRepo.getProjects().then((projects) => console.log(projects));
 ```
 
 ## Documentation
