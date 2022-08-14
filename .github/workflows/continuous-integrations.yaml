@@ -18,18 +18,18 @@ jobs:
       - name: 'Execute the lint script'
         run: 'yarn lint'
 
-  test:
-    name: 'Run unit tests with Jest'
-    runs-on: 'ubuntu-latest'
-    steps:
-      - name: 'Checkout the repository'
-        uses: 'actions/checkout@v3'
+  # test:
+  #   name: 'Run unit tests with Jest'
+  #   runs-on: 'ubuntu-latest'
+  #   steps:
+  #     - name: 'Checkout the repository'
+  #       uses: 'actions/checkout@v3'
 
-      - name: 'Setup Node.js and npm'
-        uses: './.github/actions/setup'
+  #     - name: 'Setup Node.js and npm'
+  #       uses: './.github/actions/setup'
 
-      - name: 'Execute the test script'
-        run: 'yarn test'
+  #     - name: 'Execute the test script'
+  #       run: 'yarn test'
 
   bundle:
     name: 'Bundle package with Rollup.js'
