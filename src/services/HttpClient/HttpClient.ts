@@ -23,18 +23,23 @@ request */
 export class DuHttpClient implements IHttpClient {
   private readonly axiosInstance: AxiosInstance;
 
+  /**
+   * It creates a new instance of the HttpClient class.
+   * @param {HttpClientInitParams}  - `axiosInstance`: An instance of axios. If you don't provide one,
+   * the SDK will create one for you.
+   */
   constructor({ axiosInstance }: HttpClientInitParams) {
     const env = process.env['DIGITALHUMANI_ENV'];
     const apiKey = process.env['DIGITALHUMANI_API_KEY'];
 
     if (env !== 'prod' && env !== 'sandbox') {
-      throw Error(
+      throw new Error(
         "Impossible to initialize digital humani sdk because envirnoment has not been provided or the provided value is different from 'sandbox' and 'prod'.",
       );
     }
 
     if (!apiKey) {
-      throw Error(
+      throw new Error(
         'Impossible to initialize digital humani sdk because the API key has not been found.',
       );
     }
