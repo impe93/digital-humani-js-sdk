@@ -17,15 +17,15 @@ export interface Count {
 export type GetMonthlyTreeCountRequest = {
   enterpriseId: string;
   month: string; // YYYY-MM
-  startDate: undefined;
-  endDate: undefined;
+  startDate?: undefined;
+  endDate?: undefined;
 };
 
 export type GetUserTreeCountRequest = {
   enterpriseId: string;
   startDate: string; // YYYY-MM-DD
   endDate: string; // YYYY-MM-DD
-  month: undefined;
+  month?: undefined;
 };
 
 export type GetTreeCountRequest =

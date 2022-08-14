@@ -13,20 +13,38 @@ import type { IHttpClient } from './services/HttpClient/IHttpClient';
 class DigitalHumani {
   private static _instance: DigitalHumani;
 
+  /**
+   * The instance of the class to use to calls the SDK methods
+   */
   public static get instance(): DigitalHumani {
     if (!this._instance) this._instance = new DigitalHumani();
     return this._instance;
   }
 
+  /**
+   * Renamed `instance` for faster user
+   */
   public static get i(): DigitalHumani {
     return this.instance;
   }
 
+  /* It's a public property that is readonly and it's type is IProjectRepository. */
   public readonly userRepo: IUserRepository;
+
+  /* It's a public property that is readonly and it's type is IProjectRepository. */
   public readonly treeRepo: ITreeRepository;
+
+  /* It's a public property that is readonly and it's type is IProjectRepository. */
   public readonly enterpriseRepo: IEnterpriseRepository;
+
+  /* It's a public property that is readonly and it's type is IProjectRepository. */
   public readonly projectRepo: IProjectRepository;
 
+  /**
+   * The function is a private constructor that creates a new instance of the DuHttpClient class and
+   * then creates new instances of the UserRepository, TreeRepository, ProjectRepository, and
+   * EnterpriseRepository classes
+   */
   private constructor() {
     const httpClient: IHttpClient = new DuHttpClient();
 
