@@ -46,7 +46,7 @@
     "lint": "eslint \"*/**/*.{ts,js,json}\"",
     "lint:fix": "eslint \"*/**/*.{ts,js,json}\" --fix",
     "build": "rollup --config ./rollup.config.js",
-    "prepublishOnly": "yarn doc && yarn lint && yarn test && yarn build"
+    "prepublishOnly": "yarn doc && yarn lint && yarn build"
   },
   "repository": {
     "type": "git",
