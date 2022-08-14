@@ -1,0 +1,15 @@
+{
+  "out": "./docs",
+  "name": "DigitalHumani JS SDK",
+  "entryPoints": [
+    "src/index.ts",
+    "src/repositories/EnterpriseRepository/enterprise.repository.ts",
+    "src/repositories/ProjectRepository/project.repository.ts",
+    "src/repositories/TreeRepository/tree.repository.ts",
+    "src/repositories/UserRepository/user.repository.ts"
+  ],
+
+  "theme": "markdown",
+  "readme": "none",
+  "tsconfig": "./tsconfig.bundle.json"
+}
