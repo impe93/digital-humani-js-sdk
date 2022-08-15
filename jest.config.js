@@ -8,6 +8,7 @@
 const options = {
   preset: 'ts-jest',
   resolver: 'ts-jest-resolver',
+  coverageReporters: ['json-summary', 'lcov'],
 };
 
 module.exports = options;

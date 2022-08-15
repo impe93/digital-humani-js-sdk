@@ -30,6 +30,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "jest": "^28.1.3",
+    "jest-coverage-badges": "^1.1.2",
     "jest-mock-extended": "^2.0.7",
     "prettier": "^2.7.1",
     "rollup": "^2.77.0",
@@ -44,6 +45,8 @@
   "scripts": {
     "doc": "typedoc --excludePrivate --excludeProtected --entryPointStrategy expand ./src",
     "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:badges": "jest-coverage-badges",
     "lint": "eslint \"*/**/*.{ts,js,json}\"",
     "lint:fix": "eslint \"*/**/*.{ts,js,json}\" --fix",
     "build": "rollup --config ./rollup.config.js",
