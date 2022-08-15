@@ -2,9 +2,7 @@
 
 [![Continuous Integrations](https://github.com/impe93/digital-humani-js-sdk/actions/workflows/continuous-integrations.yaml/badge.svg?branch=main)](https://github.com/impe93/digital-humani-js-sdk/actions/workflows/continuous-integrations.yaml)
 [![License](https://badgen.net/github/license/impe93/digital-humani-js-sdk)](./LICENSE)
-[![Package tree-shaking](https://badgen.net/bundlephobia/tree-shaking/digital-humani-js-sdk)](https://bundlephobia.com/package/digital-humani-js-sdk)
-[![Package minified & gzipped size](https://badgen.net/bundlephobia/minzip/digital-humani-js-sdk)](https://bundlephobia.com/package/digital-humani-js-sdk)
-[![Package dependency count](https://badgen.net/bundlephobia/dependency-count/reactdigital-humani-js-sdk)](https://bundlephobia.com/package/digital-humani-js-sdk)
+![Lines Coverage](./coverage/badge-lines.svg)
 
 ## Installation
 
