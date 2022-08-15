@@ -22,7 +22,7 @@ class DigitalHumani {
   }
 
   /**
-   * Renamed `instance` for faster user
+   * Renamed `instance` for faster use
    */
   public static get i(): DigitalHumani {
     return this.instance;
